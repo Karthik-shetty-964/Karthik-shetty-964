@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Karthik shetty!</h1>
+<h1 align="center">Hi, I'm Karthik shetty👋</h1>
 <h3 align="center">I'm Karthik shetty from India. I'm a third year graduate student studying Bachelor's degree in Information science and engineering at Mangalore institute of technology and engineering,Moodbidri.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=karthik-shetty-964&label=Profile%20views&color=0e75b6&style=flat" alt="karthik-shetty-964" /> </p>
