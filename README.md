@@ -30,7 +30,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Karthik-shetty-964&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" alt="karthik-shetty-964" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=karthik-shetty-964&&bg_color=151515" alt="karthik-shetty-964" /></p>
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=karthik-shetty-964" alt="karthik-shetty-964" /></a> </p>
+
