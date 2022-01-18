@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/karthik_shtty" target="blank"><img src="https://img.shields.io/twitter/follow/karthik_shtty?logo=twitter&style=for-the-badge" alt="karthik_shtty" /></a> </p>
 
-- 🔭 I’m currently working on **My portfolio website**
+- 🔭 Know more about me - **https://karthik-shetty.netlify.app**
 
 - 💬 Ask me about **Coding, Web development or any tech related stuff!**
 
