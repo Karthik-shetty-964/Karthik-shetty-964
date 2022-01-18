@@ -28,8 +28,8 @@
 <a href="https://www.hackerearth.com/karthik2460" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="karthik2460" height="30" width="40" /></a>
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Karthik-shetty-964&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" alt="karthik-shetty-964" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karthik-shetty-964&show_icons=true&theme=radical" alt="Karthik_shetty_bar" /></p>
+<p>&nbsp;<img align="center" class="display:inline;" src="https://github-readme-stats.vercel.app/api?username=Karthik-shetty-964&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" alt="karthik-shetty-964" /></p>
+<p>&nbsp;<img align="center" class="display:inline;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karthik-shetty-964&show_icons=true&theme=radical" alt="Karthik_shetty_bar" /></p>
 
 
 
