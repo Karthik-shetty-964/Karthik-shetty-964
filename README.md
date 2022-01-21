@@ -8,7 +8,7 @@
 
 - 🔭 Know more about me - **https://karthik-shetty.netlify.app**
 
-- 💬 Ask me about **Coding, Web development or any tech related stuff!**
+- 💬 Ask me about - **Coding, Web development or any tech related stuff!**
 
 - ⚡ Fun fact about coding **It has over 700 languages.**
 <img align="right" alt="Coding" width="300"  src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
